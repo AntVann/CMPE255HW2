@@ -6,6 +6,7 @@ HW 2
 # Part 2
 
 ## Tabular Classification/Regression
+https://colab.research.google.com/drive/15k8Y4D_HjFhFgZcN6_xMTAcz2fXwCpEg?usp=sharing
 
 ## Multimodal Tabular
 
