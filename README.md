@@ -14,18 +14,22 @@ https://colab.research.google.com/drive/1zctI0nAPCyedOEZBSj9WJj8PkBG8o4c0?usp=sh
 https://colab.research.google.com/drive/19uuwt7zNA5ubxD49SciT-A7YrJbEprAF?usp=sharing
 
 ## Automatic Feature Engineering
+https://colab.research.google.com/drive/1g3kT0_vZ04I6dfZfw4dxahO-Ds-Tbj81?usp=sharing
 
 ## Multi-Label
+https://colab.research.google.com/drive/1uvUMIuuJI6e0KHmfRF3zXRyKjjhFjEm5?usp=sharing
 
 ## Autogluon With GPU
-
-## Text Classification
+https://colab.research.google.com/drive/1QlvhodvQP-bNy3X6hc2SaspPrXknG_MY?usp=sharing
 
 ## Sentiment Analysis and Sentence Similarity
+-
 
 ## Finetune Foundation Models
+-
 
 ## Named Entity Recognition
+-
 
 ## Image Classifier
 
