@@ -8,6 +8,8 @@ HW 2
 ## Tabular Classification/Regression
 https://colab.research.google.com/drive/15k8Y4D_HjFhFgZcN6_xMTAcz2fXwCpEg?usp=sharing
 
+https://colab.research.google.com/drive/1zctI0nAPCyedOEZBSj9WJj8PkBG8o4c0?usp=sharing
+
 ## Multimodal Tabular
 
 ## Automatic Feature Engineering
