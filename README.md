@@ -11,6 +11,7 @@ https://colab.research.google.com/drive/15k8Y4D_HjFhFgZcN6_xMTAcz2fXwCpEg?usp=sh
 https://colab.research.google.com/drive/1zctI0nAPCyedOEZBSj9WJj8PkBG8o4c0?usp=sharing
 
 ## Multimodal Tabular
+https://colab.research.google.com/drive/19uuwt7zNA5ubxD49SciT-A7YrJbEprAF?usp=sharing
 
 ## Automatic Feature Engineering
 
