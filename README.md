@@ -34,7 +34,7 @@ beginner_image_cls.ipynb
 clip_zeroshot.ipynb
 
 ## Image Segmentation
-
+beginner_semantic_seg.ipynb
 
 ## Document Classification
 document_classification.ipynb
