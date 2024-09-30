@@ -37,8 +37,6 @@ https://colab.research.google.com/drive/1QlvhodvQP-bNy3X6hc2SaspPrXknG_MY?usp=sh
 
 ## Document Classification
 
-## Image to Image
-
 ## Text to Text
 
 ## Image to Text
