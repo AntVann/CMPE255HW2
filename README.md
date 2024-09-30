@@ -19,13 +19,13 @@ https://colab.research.google.com/drive/1uvUMIuuJI6e0KHmfRF3zXRyKjjhFjEm5?usp=sh
 https://colab.research.google.com/drive/1QlvhodvQP-bNy3X6hc2SaspPrXknG_MY?usp=sharing
 
 ## Sentiment Analysis and Sentence Similarity
--
+Beginner Text
 
 ## Finetune Foundation Models
--
+Multilingual Text
 
 ## Named Entity Recognition
--
+Ner
 
 ## Image Classifier
 
@@ -38,6 +38,7 @@ https://colab.research.google.com/drive/1QlvhodvQP-bNy3X6hc2SaspPrXknG_MY?usp=sh
 ## Document Classification
 
 ## Text to Text
+Text to Text
 
 ## Image to Text
 
