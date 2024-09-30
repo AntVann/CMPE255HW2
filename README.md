@@ -28,8 +28,10 @@ Multilingual Text
 Ner
 
 ## Image Classifier
+Beginner image
 
 ## Zero-Shot Classification
+Clip Zero-Shot
 
 ## Image Segmentation
 
