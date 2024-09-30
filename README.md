@@ -31,8 +31,6 @@ Ner
 
 ## Zero-Shot Classification
 
-## Image Object Detection
-
 ## Image Segmentation
 
 ## Document Classification
@@ -40,19 +38,4 @@ Ner
 ## Text to Text
 Text to Text
 
-## Image to Text
-
-## Image to text Zero-Shot
-
-## Text Semantic Search 
-
-## Multi-Modal Mixed Type Text Columns
-
-## Images + Text in Table
-
-## Entity Extraction in Multi-Modal
-
-## Simple Forecasting
-
-## Multi Modal Image + Text + Tabular Prediction
 
