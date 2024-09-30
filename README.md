@@ -1,6 +1,8 @@
 # Anthony Vann CMPE 255 HW 2
 HW 2 
 
+Video For all Colabs together: https://youtu.be/SSzLGJAHy8s
+
 ## Tabular Classification/Regression
 https://colab.research.google.com/drive/15k8Y4D_HjFhFgZcN6_xMTAcz2fXwCpEg?usp=sharing
 
