@@ -19,25 +19,27 @@ https://colab.research.google.com/drive/1uvUMIuuJI6e0KHmfRF3zXRyKjjhFjEm5?usp=sh
 https://colab.research.google.com/drive/1QlvhodvQP-bNy3X6hc2SaspPrXknG_MY?usp=sharing
 
 ## Sentiment Analysis and Sentence Similarity
-Beginner Text
+beginner_text.ipynb
 
 ## Finetune Foundation Models
-Multilingual Text
+multilingual_text.ipynb
 
 ## Named Entity Recognition
-Ner
+ner.ipynb
 
 ## Image Classifier
-Beginner image
+beginner_image_cls.ipynb
 
 ## Zero-Shot Classification
-Clip Zero-Shot
+clip_zeroshot.ipynb
 
 ## Image Segmentation
 
+
 ## Document Classification
+document_classification.ipynb
 
 ## Text to Text
-Text to Text
+text2text_matching.ipynb
 
 
